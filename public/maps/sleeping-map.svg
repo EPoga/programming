@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e7dfcc"/>
+  <text x="30" y="40" font-size="28" fill="#5b4632">Nakšņošanas plāns</text>
+  <rect x="400" y="120" width="220" height="160" rx="14" fill="#ccb396"/>
+  <text x="430" y="205" font-size="22" fill="#4d3a28">Kalna viesu nams</text>
+  <rect x="160" y="250" width="170" height="120" rx="14" fill="#bfa486"/>
+  <text x="178" y="316" font-size="22" fill="#4d3a28">Dārza māja</text>
+  <rect x="590" y="320" width="170" height="120" rx="14" fill="#d9c3a7"/>
+  <text x="602" y="386" font-size="22" fill="#4d3a28">Pļavas namiņš</text>
+  <circle cx="500" cy="80" r="28" fill="#7b8d64"/>
+  <text x="487" y="87" font-size="18" fill="#fff">Ozols</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#efe4cf"/>
+  <text x="30" y="40" font-size="28" fill="#5b4632">Sēdvietu plāns</text>
+  <rect x="90" y="110" width="140" height="80" rx="12" fill="#d8c1a3"/>
+  <text x="145" y="158" font-size="28" fill="#4d3a28">A</text>
+  <rect x="290" y="230" width="140" height="80" rx="12" fill="#cdb293"/>
+  <text x="345" y="278" font-size="28" fill="#4d3a28">B</text>
+  <rect x="520" y="170" width="140" height="80" rx="12" fill="#cfb89c"/>
+  <text x="575" y="218" font-size="28" fill="#4d3a28">C</text>
+  <rect x="620" y="290" width="120" height="70" rx="12" fill="#b79b7a"/>
+  <text x="668" y="334" font-size="28" fill="#4d3a28">D</text>
+  <rect x="40" y="300" width="120" height="70" rx="12" fill="#c8b08d"/>
+  <text x="88" y="345" font-size="28" fill="#4d3a28">E</text>
+</svg>

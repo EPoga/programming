@@ -1,0 +1,172 @@
+:root {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  color: #2f2a22;
+  background: #f4efe4;
+  line-height: 1.4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #f7f1e7 0%, #ece3d1 70%);
+}
+
+.app-shell {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.hero {
+  background: linear-gradient(135deg, #556b4b, #806245);
+  color: #fff8eb;
+  border-radius: 20px;
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+  position: relative;
+  box-shadow: 0 8px 28px rgba(74, 57, 40, 0.2);
+}
+
+.lang-toggle {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  border: 1px solid #fff6de;
+  background: #ffffff24;
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-weight: 600;
+}
+
+.subtitle {
+  margin-bottom: 0;
+  opacity: 0.9;
+}
+
+.search-form,
+.assignment-card,
+.map-card,
+.message-card,
+.selection-card,
+.help-note {
+  background: #fffdf8;
+  border: 1px solid #d8c9ae;
+  border-radius: 16px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+  font-size: 1rem;
+  padding: 0.75rem;
+  border-radius: 12px;
+  border: 1px solid #c7b496;
+}
+
+.button-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+
+button {
+  min-height: 48px;
+  font-size: 1rem;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+button.primary {
+  background: #567245;
+  color: #fff;
+}
+
+button.secondary {
+  background: #eadfca;
+  color: #4f3d2a;
+}
+
+.selection-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.selection-card button {
+  width: 100%;
+  text-align: left;
+  background: #efe5d3;
+  padding: 0.7rem;
+  color: #3f3224;
+}
+
+.results h2 {
+  margin-top: 0;
+}
+
+.map-wrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+.map-wrapper img {
+  width: 100%;
+  display: block;
+}
+
+.map-pin {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #b53e2d;
+  border: 3px solid #fff;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 3px #b53e2d55;
+}
+
+.map-fallback {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  text-align: center;
+  color: #fff;
+  background: #00000070;
+}
+
+.legend,
+.note,
+.help-note {
+  color: #5d4c38;
+}
+
+@media (min-width: 700px) {
+  .results {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+
+  .results > h2 {
+    grid-column: 1 / -1;
+  }
+}

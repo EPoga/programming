@@ -1,0 +1,139 @@
+[
+  {
+    "id": "g-001",
+    "name": "Jānis",
+    "surname": "Bērziņš",
+    "seating": {
+      "table": "Galdiņš A",
+      "seat": "A4",
+      "direction": "Pēc ieejas dodies taisni līdz ābelei, Galdiņš A ir pa kreisi.",
+      "marker": { "x": 30, "y": 42 }
+    },
+    "sleeping": {
+      "house": "Kalna viesu nams",
+      "roomBed": "2. stāvs, Ozola istaba, gulta 1",
+      "direction": "No pagalma ej uz galveno namu, 2. stāvā pirmās durvis pa labi.",
+      "marker": { "x": 62, "y": 24 }
+    }
+  },
+  {
+    "id": "g-002",
+    "name": "Līga",
+    "surname": "Kalniņa",
+    "seating": {
+      "table": "Galdiņš B",
+      "seat": "B2",
+      "direction": "No skatuves puses Galdiņš B atrodas tieši priekšā pie laternām.",
+      "marker": { "x": 53, "y": 57 }
+    },
+    "sleeping": {
+      "house": "Dārza māja",
+      "roomBed": "Saules istaba, gulta 2",
+      "direction": "Dārza māja ir aiz pirts, ieeja no terases puses.",
+      "marker": { "x": 28, "y": 63 }
+    }
+  },
+  {
+    "id": "g-003",
+    "name": "Mārtiņš",
+    "surname": "Ozoliņš",
+    "seating": {
+      "table": "Galdiņš C",
+      "seat": "C1",
+      "direction": "Galdiņš C ir tuvāk deju grīdai, pie bērza stumbra dekorācijām.",
+      "marker": { "x": 74, "y": 48 }
+    },
+    "sleeping": {
+      "house": "Kalna viesu nams",
+      "roomBed": "1. stāvs, Ezera istaba",
+      "direction": "Galvenajā namā pa kreisi no halles, istaba ar zilu durvju numuru.",
+      "marker": { "x": 57, "y": 41 }
+    }
+  },
+  {
+    "id": "g-004",
+    "name": "Elīna",
+    "surname": "Grīnberga",
+    "seating": {
+      "table": "Galdiņš A",
+      "seat": "A2",
+      "direction": "No ieejas turies pa kreisi, Galdiņš A būs pie lina galdautiem.",
+      "marker": { "x": 27, "y": 39 }
+    },
+    "sleeping": {
+      "house": "Pļavas namiņš",
+      "roomBed": "1. numurs, divvietīgā gulta",
+      "direction": "Pļavas namiņš atrodas aiz lielā ozola, pirmais namiņš pa labi.",
+      "marker": { "x": 81, "y": 71 }
+    }
+  },
+  {
+    "id": "g-005",
+    "name": "Artūrs",
+    "surname": "Liepiņš",
+    "seating": {
+      "table": "Galdiņš D",
+      "seat": "D5",
+      "direction": "Pie bāra zonas pagriezies uz labo pusi, Galdiņš D ir stūrī.",
+      "marker": { "x": 84, "y": 61 }
+    },
+    "sleeping": {
+      "house": "Dārza māja",
+      "roomBed": "Mēness istaba, gulta 1",
+      "direction": "Dārza mājā ieej pa sānu durvīm, istaba uzreiz pa kreisi.",
+      "marker": { "x": 32, "y": 54 }
+    }
+  },
+  {
+    "id": "g-006",
+    "name": "Sabīne",
+    "surname": "Krūmiņa",
+    "seating": {
+      "table": "Galdiņš C",
+      "seat": "C4",
+      "direction": "Dodoties no ieejas taisni, Galdiņš C būs pie logu sienas.",
+      "marker": { "x": 70, "y": 43 }
+    },
+    "sleeping": {
+      "house": "Kalna viesu nams",
+      "roomBed": "2. stāvs, Priedes istaba",
+      "direction": "Uz otro stāvu pa koka kāpnēm, pēdējās durvis gaitenī.",
+      "marker": { "x": 66, "y": 18 }
+    }
+  },
+  {
+    "id": "g-007",
+    "name": "Toms",
+    "surname": "Āboliņš",
+    "seating": {
+      "table": "Galdiņš E",
+      "seat": "E3",
+      "direction": "Āra nojumes malā pie lampiņu virtenēm atradīsi Galdiņu E.",
+      "marker": { "x": 15, "y": 66 }
+    },
+    "sleeping": {
+      "house": "Pļavas namiņš",
+      "roomBed": "2. numurs, vienvietīgā gulta",
+      "direction": "Pļavas namiņā otrās durvis, numurs ar zāles simbolu.",
+      "marker": { "x": 86, "y": 77 }
+    }
+  },
+  {
+    "id": "g-008",
+    "name": "Laura",
+    "surname": "Čakste",
+    "seating": {
+      "table": "Galdiņš B",
+      "seat": "B6",
+      "direction": "Galdiņš B ir netālu no muzikantu stūrīša, pie sveču kompozīcijām.",
+      "marker": { "x": 50, "y": 58 }
+    },
+    "sleeping": {
+      "house": "Kalna viesu nams",
+      "roomBed": "1. stāvs, Liepu istaba",
+      "direction": "No halles dodies pa labi, istaba aiz stikla durvīm.",
+      "marker": { "x": 55, "y": 49 }
+    },
+    "notes": "Ja rodas jautājumi par bērnu gultiņu, jautāt vedējiem."
+  }
+]

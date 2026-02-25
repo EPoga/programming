@@ -1,0 +1,12 @@
+{
+  "seatingMap": {
+    "image": "/maps/seating-map.svg",
+    "alt": "Sēdvietu plāna karte",
+    "fallbackLegend": "Galdiņi: A pie ieejas, B pie skatuves, C pie logiem, D pie bāra, E āra nojumē."
+  },
+  "sleepingMap": {
+    "image": "/maps/sleeping-map.svg",
+    "alt": "Nakšņošanas plāna karte",
+    "fallbackLegend": "Kalna viesu nams centrā, Dārza māja pie pirts, Pļavas namiņi aiz ozola."
+  }
+}
